@@ -28,7 +28,7 @@
       "label": "New",
       "price": "6$ per hour",
       "featured": false,
-      "description": "Hua Tuo was a great ancient Chinese physician honored as the "greatest doctor" in the history of Chinese medicine. He is known for his contributions in researching and applying traditional medicine, particularly herbal remedies for treating illnesses."
+      "description": "Hua Tuo was a great ancient Chinese physician honored as the greatest doctor in the history of Chinese medicine. He is known for his contributions in researching and applying traditional medicine, particularly herbal remedies for treating illnesses."
     },
     {
       "id": 3,
@@ -38,7 +38,7 @@
       "label": "",
       "price": "9.91$ per hour",
       "featured": false,
-      "description": "Walter White is a character from the TV series "Breaking Bad." Initially a regular chemistry teacher, Walter transitions into a drug manufacturer and dealer after being diagnosed with terminal lung cancer."
+      "description": "Walter White is a character from the TV series Breaking Bad. Initially a regular chemistry teacher, Walter transitions into a drug manufacturer and dealer after being diagnosed with terminal lung cancer."
     }
   ],
   "comments": [
