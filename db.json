@@ -2,43 +2,43 @@
   "dishes": [
     {
       "id": 0,
-      "name": "Hieudoctor",
+      "name": "Dr.Strange",
       "image": "images/drStrange.jpg",
       "category": "mains",
       "label": "Hot",
-      "price": "4.99",
+      "price": "5$ per hour",
       "featured": true,
       "description": "Doctor Strange's skill as a doctor is just the tip of the iceberg. After a serious car accident, he sought knowledge in Kamar-Taj, delving into the mystical arts to become the Sorcerer Supreme"
     },
     {
       "id": 1,
-      "name": "baodoctor",
-      "image": "images/zucchipakoda.png",
+      "name": "Dr.Vo Hoang Yen",
+      "image": "images/drVoHoangYen.jpg",
       "category": "appetizer",
       "label": "",
-      "price": "1.99",
+      "price": "4.5$ per hour",
       "featured": false,
-      "description": "Deep fried Zucchini coated with mildly spiced Chickpea flour batter accompanied with a sweet-tangy tamarind sauce"
+      "description": "Doctor Vo Hoang Yen is a dedicated physician with extensive knowledge of traditional Vietnamese medicine. She's renowned for her research and application of folk medicine methods, particularly in utilizing herbal remedies to treat various ailments."
     },
     {
       "id": 2,
-      "name": "trietdoctor",
-      "image": "images/vadonut.png",
+      "name": "Dr.Hua Tuo",
+      "image": "images/drHuaTuo.jpg",
       "category": "appetizer",
       "label": "New",
-      "price": "1.99",
+      "price": "6$ per hour",
       "featured": false,
-      "description": "A quintessential ConFusion experience, is it a vada or is it a donut?"
+      "description": "Hua Tuo was a great ancient Chinese physician honored as the "greatest doctor" in the history of Chinese medicine. He is known for his contributions in researching and applying traditional medicine, particularly herbal remedies for treating illnesses."
     },
     {
       "id": 3,
-      "name": "HuyDoctor",
-      "image": "images/elaicheesecake.png",
+      "name": "Dr.Walter White",
+      "image": "images/drWalterWhite.jpg",
       "category": "dessert",
       "label": "",
-      "price": "2.99",
+      "price": "9.91$ per hour",
       "featured": false,
-      "description": "A delectable, semi-sweet New York Style Cheese Cake, with Graham cracker crust and spiced with Indian cardamoms"
+      "description": "Walter White is a character from the TV series "Breaking Bad." Initially a regular chemistry teacher, Walter transitions into a drug manufacturer and dealer after being diagnosed with terminal lung cancer."
     }
   ],
   "comments": [
